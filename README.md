@@ -1,10 +1,11 @@
 
-## Weather_Data_ETL_Pipelines_Project
+## FordGo Bike: Growth Analysis
 
 ### Aim of the project
 Let us assume we have been contacted by a company named X possessing a regional public bicycle sharing system in some state in United States.\
 **Why?**
 We need to find and propose ways in which they could improve their overall revenues.
+![image](https://user-images.githubusercontent.com/120035660/235743649-ca5876a9-a814-4964-9187-3d7a791141c0.png)
 
 
 ### General Project Overview
