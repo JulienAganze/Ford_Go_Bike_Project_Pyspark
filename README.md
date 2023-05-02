@@ -5,7 +5,7 @@
 Let us assume we have been contacted by a company named X possessing a regional public bicycle sharing system in some state in United States.\
 **Why?**
 We need to find and propose ways in which they could improve their overall revenues.
-![image](https://user-images.githubusercontent.com/120035660/235744065-ec38a549-c933-4d01-a99c-dacc22b62b96.png)
+![image](https://user-images.githubusercontent.com/120035660/235744299-9a2833f4-a803-43c5-ac76-e0f6bb8bee76.png)
 
 
 
