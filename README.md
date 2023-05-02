@@ -20,6 +20,7 @@ The main python library used in this case is [PySpark](https://spark.apache.org/
 
 #### Project overview
 Generally this project is divided into two main analysis parts. The first one related to three parameters: Age, Dender of user types of different bike riders, and the second one related to different stations locations. And in all of these points we will be trying to derive some key insights from where the company could increase its overall revenues
+![image](https://user-images.githubusercontent.com/120035660/235741710-81c5b528-78cd-476d-bb9b-21a68ae38270.png)
 
 
 #### Used tools/Environments  
