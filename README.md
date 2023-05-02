@@ -1,0 +1,28 @@
+
+## Weather_Data_ETL_Pipelines_Project
+
+### Aim of the project
+Let us assume we have been contacted by a company named X possessing a regional public bicycle sharing system in some state in United States.\
+**Why?**
+We need to find and propose ways in which they could improve their overall revenues.
+
+
+### General Project Overview
+#### Used dataset
+A dataset  containing trip details for some of their bikes was provided.
+And for each trip the following details were presented:
+
+
+
+#### Used libraries
+The main python library used in this case is [PySpark](https://spark.apache.org/docs/latest/api/python/), which is the Python API for Apache Spark. It enables you to perform real-time, large-scale data processing in a distributed environment using Python. It also provides a PySpark shell for interactively analyzing your data.\
+
+#### Project overview
+Generally this project is divided into two main analysis parts. The first one related to three parameters: Age, Dender of user types of different bike riders, and the second one related to different stations locations. And in all of these points we will be trying to derive some key insights from where the company could increase its overall revenues
+
+
+#### Used tools/Environments  
+* PySpark
+* Databricks
+* Visual Code Studio
+All the detailed code and explanation can be found [here](https://github.com/JulienAganze/Ford_Go_Bike_Project_Pyspark/blob/master/data_manipulation.ipynb)
