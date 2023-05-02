@@ -10,7 +10,7 @@ We need to find and propose ways in which they could improve their overall reven
 ### General Project Overview
 #### Used dataset
 A dataset  containing trip details for some of their bikes was provided.
-And for each trip the following details were presented:
+And for each trip the following details were presented(This is just a portion of the dataset):
 ![image](https://user-images.githubusercontent.com/120035660/235740964-517fe20e-99ef-4ac4-8c2b-fcf7bf60fa11.png)
 
 
